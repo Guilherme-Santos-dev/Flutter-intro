@@ -16,6 +16,7 @@ void main() {
   print(data_e_hora);
   
   //tipos de dados//
+  
   //inteiro ou int
   int numero = 10;
   print(numero); //vai mostrar 10
